@@ -1,4 +1,8 @@
 公共库代码
 111111
 
+222-修复bug
+
 add from login 222
+
+add  from banner
