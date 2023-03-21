@@ -14,3 +14,4 @@ add  from banner
 666
 666-remote
 777-xiaojiu
+7777--baibai
